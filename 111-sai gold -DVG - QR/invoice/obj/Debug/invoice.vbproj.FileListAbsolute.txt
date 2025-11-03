@@ -1241,3 +1241,9 @@ A:\Customer invoice Formate_100 to 200\111-sai gold -DVG - QR\sai gold -DVG - QR
 A:\Customer invoice Formate_100 to 200\111-sai gold -DVG - QR\sai gold -DVG - QR\invoice\obj\Debug\invoice.exe.manifest
 A:\Customer invoice Formate_100 to 200\111-sai gold -DVG - QR\sai gold -DVG - QR\invoice\obj\Debug\invoice.application
 A:\Customer invoice Formate_100 to 200\111-sai gold -DVG - QR\sai gold -DVG - QR\invoice\obj\Debug\invoice.vbprojResolveAssemblyReference.cache
+G:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.exe
+G:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.xml
+G:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.pdb
+D:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.exe
+D:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.xml
+D:\Daily_invoice_changes\111-sai gold -DVG - QR\invoice\obj\Debug\invoice.pdb
